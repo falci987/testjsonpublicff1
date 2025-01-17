@@ -1,4 +1,4 @@
-"rispostadummy":{
+{
    "response":{
       "code":"0",
       "description":"Data read OK"
@@ -185,5 +185,4 @@
          ]
       }
    ]
-}
 }
